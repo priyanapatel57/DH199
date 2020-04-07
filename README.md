@@ -1,6 +1,6 @@
 # DH199: Diverse Dining Experiences Across Los Angeles
-Priyana Patel
-Cognitive Science and Digital Humanities, B.S., Class of 2020
+Priyana Patel <br/>
+Cognitive Science and Digital Humanities, B.S., Class of 2020 <br/>
 
 ## Project Description 
 I am interested in exploring the diverse cuisines of Los Angeles and how food was and is currently reflected in the social and dining experience of local residents. From coffee shops to brunch spots to fine dining, food represents a social activity of gathering and productivity. Los Angeles is comprised of residents of multiple races, nationalities, and backgrounds which is directly reflected in the food we eat. For myself, food is an integral part of my cultural identity as a British-American of Gujarati Indian origin, having lived in Los Angeles for the past four years as a student. Food is a dual symbol of cultural preservation and unique connections.
