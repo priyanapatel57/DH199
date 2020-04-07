@@ -11,13 +11,13 @@ The current design problem is making the history of food culture in Los Angeles 
 I plan to improve the current user experience through a location-based navigation and a walkthrough of the history of food and culture. I will document my design process and final prototype through web documentation and a research paper. I hope to further my design portfolio and storytelling skills through this directed research opportunity, learning how to improve the user experience of my local community through extensive research and iterative development. 
 
 ## Project Schedule 
-Week 1 - Research topic proposal (CITI training + web-documentation)
-Week 2 - Secondary research and writeup (literature review/previous works)
-Week 3 - Field research plan: how to learn from others (planning user research)
-Week 4 - Field research findings and writeup (analysis of user research)
-Week 5 - Understand the perspective of the users (storytelling)
-Week 6 - Interaction design (low-fidelity prototype)
-Week 7 - Interface design (screen designs + impression test)
-Week 8 - High-fidelity prototype (interactive prototype)
-Week 9 - Usability testing 
-Week 10 - Final report
+Week 1 - Research topic proposal (CITI training + web-documentation) <br/>
+Week 2 - Secondary research and writeup (literature review/previous works) <br/>
+Week 3 - Field research plan: how to learn from others (planning user research) <br/>
+Week 4 - Field research findings and writeup (analysis of user research) <br/>
+Week 5 - Understand the perspective of the users (storytelling) <br/>
+Week 6 - Interaction design (low-fidelity prototype) <br/>
+Week 7 - Interface design (screen designs + impression test) <br/>
+Week 8 - High-fidelity prototype (interactive prototype) <br/>
+Week 9 - Usability testing <br/>
+Week 10 - Final report <br/>
