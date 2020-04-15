@@ -9,6 +9,8 @@ Priyana Patel
 
 3. select the keywords you will review, try to have 3-5 keywords
 
+This quarter, my research interest is "coffee", "culture", "social", "aesthetics" and "productivity". location based naviagtion
+
 - for example, in this quarter, my research interest is "(local) history", "location based", "visualization" of "temporal/timeline". 
 
 4. search relevant academic papers by putting the keywords & skim the abstracts; if you find it quite close to or relevant to your research direction, copy the abstracts into a document (I will provide an example); highlight the implication of the abstract and/or leave a note per each abstract your summary/interpretation
