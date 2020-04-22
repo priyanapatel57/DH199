@@ -68,22 +68,20 @@ My project would allow users to easily find new coffee shops in the local area b
 Current solutions to ease the navigation process include food and drink exploration and reservations apps, such as OpenTable and Yelp. These platforms, however, do not distinguish the coffee shop as a unique, aesthetic experience through the modality of body and mind. More specific solutions help users look for high-quality, specialty coffee shops in the local area. While they are currently in the process of growing and are lesser known, they focus on providing detailed shop info to help users find "better" coffee. These solutions again neglect a user's connection and physical experience while navigating local coffeeshops on a virtual platform. Digital technology can help connect coffee drinkers based on time, experience, and word of mouth. Coffee communities can share their particular experiences in a unique space through imagery, sound, and video. Possible mediums through which this can be achieved include recreating the experience inside a coffee shop through virtual reality for a user to fully gauge their future experience. Additionally, incorporating an interactive learning process can help further the enrichment process. 
 
 ### Target Users 
-target users (amateur to coffee snob, those who frequent coffee shops on daily basis to)
+The target users that this project would be well-suited for would be coffee drinkers of various knowledge levels, from amateur to coffee snob. Typical users would be individuals who frequent coffee shops on a regular basis to socialize and be productive, such as college students, creatives, and young professionals. Users can complete the activity of searching for a local coffee shop from their home or work, the two spaces between a third space. Specifical goals include finding a target coffee shop that suits their needs, preferably in an efficient manner.  
 
-Target users: What is the characteristics of users?
-So you can find the close person who can show you how to do that activity. Or, you can find someone who knows well about such type of users (experts). Or, at least you can asks someone (or yourself) play the role of that type of users.
+### Context and Research Method 
+To better understand my target users, I plan to conduct a 30-minute interview over the phone with a typical Los Angeles coffee drinker to understand their process of searching for a new coffee shop in Los Angeles. This user will be a UCLA student who goes to coffee shops for productive and social gains. I also plan to conduct a virtual, open card sort with various images and words related to coffee shop preferences, such as the number of seats, the number of outlets, aesthetic appeal, etc., to gauge the most important feature that users seek in a new coffee shop. I plan to collect the user data by recording the audio of my phone call with my prospective user and transcribing the notes. [explain how to collect data with card sort]
 
-### Research Method 
-Step03: Pick research methods (or a combination of methods) 
-Interview with direct / passive / participatory observation.
-Or something you learned on your own (refer to the field guideline by IDEO)
 
-Step04: Plan to get into the context & write down the observation/ interview guide 
-Decide where to visit
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users 
 Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
+Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users) screen record
+
+*Interview* 
+
+| Interview Script| Interview Recording  | Transcribed Notes + Observations | Screen Recording  | 
+|------|------|------|------|
+|[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)||||
 
 Step05: Conduct the research
 Visit the place
