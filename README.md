@@ -60,24 +60,20 @@ Topik, S. (2009). Coffee as a Social Drug. Cultural Critique, 71, 81–106. JSTO
 Tucker, C. (2017). Coffee Culture. New York: Routledge, https://doi.org/10.4324/9781315678795<br/>
 
 ## User Research Planning
-
 The purpose of this user research is to gain insights from users to help make coffee shops in Los Angeles, aligned with the coffee experience, more accessible while promoting social connectivity, productivity, and inclusivity in diverse coffee communities.
 
 ### Main Design Challenge 
 My project would allow users to easily find new coffee shops in the local area based on social and productive filters using location-based navigation. With easier and more functional pathways to Los Angeles coffee shops, users will be able to strengthen their knowledge and association with coffee while integrating themselves within their respective coffee community. According to Maslow's Hierarchy of Needs, the basic need that this activity will fulfill is self-actualization. While coffee is classified as food and drink, prior research suggests that people rarely seek the coffee shop experience solely to grab their daily dose of coffee. People go to coffeeshops to find consistency and productivity in a unique third space (a space between a primary home and secondary work). Individuals also seek the full bodily experience combined with taste, aroma, noise, and the feeling of being surrounded by strangers. 
 
-current solutions, limitations 
-
-Digital technology can help connect coffee drinkers based on time, experience, and word of mouth. Coffee communities can share their particular experiences in a unique space through imagery, sound, and video. 
+Current solutions to ease the navigation process include food and drink exploration and reservations apps, such as OpenTable and Yelp. These platforms, however, do not distinguish the coffee shop as a unique, aesthetic experience through the modality of body and mind. More specific solutions help users look for high-quality, specialty coffee shops in the local area. While they are currently in the process of growing and are lesser known, they focus on providing detailed shop info to help users find "better" coffee. These solutions again neglect a user's connection and physical experience while navigating local coffeeshops on a virtual platform. Digital technology can help connect coffee drinkers based on time, experience, and word of mouth. Coffee communities can share their particular experiences in a unique space through imagery, sound, and video. Possible mediums through which this can be achieved include recreating the experience inside a coffee shop through virtual reality for a user to fully gauge their future experience. Additionally, incorporating an interactive learning process can help further the enrichment process. 
 
 ### Target Users 
 target users (amateur to coffee snob, those who frequent coffee shops on daily basis to)
-What is the basic need involved for that activity?
-What is(are) the traditional/current solution(s) to satisfy the needs?
-What is(are) the limitation(s) that possibly would be improved with (digital) technology?
+
 Target users: What is the characteristics of users?
 So you can find the close person who can show you how to do that activity. Or, you can find someone who knows well about such type of users (experts). Or, at least you can asks someone (or yourself) play the role of that type of users.
 
+### Research Method 
 Step03: Pick research methods (or a combination of methods) 
 Interview with direct / passive / participatory observation.
 Or something you learned on your own (refer to the field guideline by IDEO)
