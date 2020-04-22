@@ -71,11 +71,7 @@ Current solutions to ease the navigation process include food and drink explorat
 The target users that this project would be well-suited for would be coffee drinkers of various knowledge levels, from amateur to coffee snob. Typical users would be individuals who frequent coffee shops on a regular basis to socialize and be productive, such as college students, creatives, and young professionals. Users can complete the activity of searching for a local coffee shop from their home or work, the two spaces between a third space. Specifical goals include finding a target coffee shop that suits their needs, preferably in an efficient manner.  
 
 ### Context and Research Method 
-To better understand my target users, I plan to conduct a 30-minute interview over the phone with a typical Los Angeles coffee drinker to understand their process of searching for a new coffee shop in Los Angeles. This user will be a UCLA student who goes to coffee shops for productive and social gains. I also plan to conduct a virtual, open card sort with various images and words related to coffee shop preferences, such as the number of seats, the number of outlets, aesthetic appeal, etc., to gauge the most important feature that users seek in a new coffee shop. I plan to collect the user data by recording the audio of my phone call with my prospective user and transcribing the notes. [explain how to collect data with card sort]
-
-
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users) screen record
+To better understand my target users, I plan to conduct a 30-minute interview over the phone with a typical Los Angeles coffee drinker to understand their process of searching for a new coffee shop in Los Angeles. This user will be a UCLA student who goes to coffee shops for productive and social gains. I intend to ask them about their knowledge of coffee and further understand how it connects to their daily lives in terms of connectivity and productivity. I will specifically ask about their experiences in coffee shops and ask about three scenarios where the user has to search for a new coffee shop, recommend a news coffee shop, and advocate for a coffee shop based on their past experience. I plan to collect the user data by recording the audio of my phone call with my prospective user and transcribing the notes. Additionally, I will note any interesting observations from the interview itself, such as the vocal walkthrough process while conducting the designated tasks. To better understand how a user searches for this information on their device, I will ask the user to take a screen recording while completing the scenario. I also plan to conduct a virtual, open card sort with various images and words related to coffee shop preferences, such as the number of seats, the number of outlets, aesthetic appeal, etc., to gauge the most important feature that users seek in a new coffee shop. These words will range from more functional features to bodily sensations such as taste and aroma. Due to the current situation, I plan to conduct this card sort task in a virtual setting from the comfort of the user's home. I will as the user to rank the cards in order of preference and to arrange them as they see fit while labeling or categorizing the groups by term. I also plan to offer the user a "blank card" to write down something that I may have missed. 
 
 *Interview* 
 
@@ -83,25 +79,9 @@ Prepare the interview guide (examples + template here -- this guide is designed 
 |------|------|------|------|
 |[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)||||
 
-Step05: Conduct the research
-Visit the place
-Meet/Observe the user(s)
-Collect the data (record, pictures, answered_survey)
+*Card Sort*
+My card sort task will be completed using [Optimal Workshop](https://www.optimalworkshop.com/)
+[View](https://ows.io/os/lvu3qr2s)
 
 
 
-Context of use: Where would the users do that activity?
-so, where would you like to visit to meet the users? (location, or virtual space?)
-what is user's goal when the user is there (at the place at that moment to that activity)
-what kind of operations the users would do?
-what is the methods the users would use?
-What is the action the users take?
-Research methods (direct/ passive/ partipatory/ or creative combination of them, or other methods)
-Describe the methods such as whether you will observe the users behaviors (maybe from youtubes, or films... to be creative) or you will ask directly to the users with some quesitons (via email? or in person if someone in your family or friend, or via phone/ video call? -- in this video call you can ask the person to show their screen by sharing -- or show some artefacts they use for the activity, like could you show me your calendar how you planned the trip?)
-you may want to consider the diary/journal as a research method as well -- to ask someone write down details regarding that activity
-Plan specific quesitons or resquest for the observation/ interview guide
-Decide where to visit (virtually or in person if you are lucky to access such a place easily, by keeping social distance)
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images), so you need to know whehter you will record or ask your interviewee to record or something else.
-Write down your plan as a script -- prepare the interview guide
