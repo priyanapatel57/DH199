@@ -50,8 +50,12 @@ Since social community and aesthetic design play a major role in human behavior 
 
 ### References 
 COWAN, B. (2005). [PART II Introduction]. In The Social Life of Coffee: The Emergence of the British Coffeehouse (pp. 79-88). Yale University Press. Retrieved April 16, 2020, from www.jstor.org/stable/j.ctt1npc0p.10 <br/>
+
 FERREIRA, S., & BEUSTER, L. (2019). Stellenbosch coffee society: Societal and locational preferences. Urbani Izziv, 30, 64-81. Retrieved April 16, 2020, from www.jstor.org/stable/26690824 <br/>
+
 Nautiyal, J. (2016). Aesthetic and Affective Experiences in Coffee Shops: A Deweyan Engagement with Ordinary Affects in Ordinary Spaces. Education and Culture 32(2), 99-118. https://www.muse.jhu.edu/article/642187.<br/>
+
 Topik, S. (2009). Coffee as a Social Drug. Cultural Critique, 71, 81–106. JSTOR.<br/>
+
 Tucker, C. (2017). Coffee Culture. New York: Routledge, https://doi.org/10.4324/9781315678795<br/>
 
