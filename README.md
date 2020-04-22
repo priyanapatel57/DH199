@@ -79,9 +79,11 @@ To better understand my target users, I plan to conduct a 30-minute interview ov
 |------|------|------|------|
 |[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)||||
 
-*Card Sort*
-My card sort task will be completed using [Optimal Workshop](https://www.optimalworkshop.com/)
-[View](https://ows.io/os/lvu3qr2s)
+*Card Sort* <br/>
+My card sort task will be completed using [Optimal Workshop](https://www.optimalworkshop.com/) <br/>
+|Complete Study|
+|------|
+|[View](https://ows.io/os/lvu3qr2s)|
 
 
 
