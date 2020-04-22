@@ -1,29 +1,29 @@
 # User Research Planning
 ## DH199: Navigating American Coffee Culture in Los Angeles
+Priyana Patel
 
-### Purpose
-To find the insights from the users (or someone other than you) to solve the main design challenges you want to suggest with your ux prototype
+The purpose of this user research is to gain insights from users to help make coffee shops in Los Angeles, aligned with the coffee experience, more accessible while promoting social connectivity, productivity, and inclusivity in diverse coffee communities.
 
-Acitivy: What is the thing the users would do with your web/app?
-What is the main activity your project would support the users?
-What is the basic need involved for that activity?
-What is(are) the traditional/current solution(s) to satisfy the needs?
-What is(are) the limitation(s) that possibly would be improved with (digital) technology?
-Target users: What is the characteristics of users?
-So you can find the close person who can show you how to do that activity. Or, you can find someone who knows well about such type of users (experts). Or, at least you can asks someone (or yourself) play the role of that type of users.
+### Main Design Challenge 
+My project would allow users to easily find new coffee shops in the local area based on social and productive filters using location-based navigation. With easier and more functional pathways to Los Angeles coffee shops, users will be able to strengthen their knowledge and association with coffee while integrating themselves within their respective coffee community. According to Maslow's Hierarchy of Needs, the basic need that this activity will fulfill is self-actualization. While coffee is classified as food and drink, prior research suggests that people rarely seek the coffee shop experience solely to grab their daily dose of coffee. People go to coffeeshops to find consistency and productivity in a unique third space (a space between a primary home and secondary work). Individuals also seek the full bodily experience combined with taste, aroma, noise, and the feeling of being surrounded by strangers. 
 
-Context of use: Where would the users do that activity?
-so, where would you like to visit to meet the users? (location, or virtual space?)
-what is user's goal when the user is there (at the place at that moment to that activity)
-what kind of operations the users would do?
-what is the methods the users would use?
-What is the action the users take?
-Research methods (direct/ passive/ partipatory/ or creative combination of them, or other methods)
-Describe the methods such as whether you will observe the users behaviors (maybe from youtubes, or films... to be creative) or you will ask directly to the users with some quesitons (via email? or in person if someone in your family or friend, or via phone/ video call? -- in this video call you can ask the person to show their screen by sharing -- or show some artefacts they use for the activity, like could you show me your calendar how you planned the trip?)
-you may want to consider the diary/journal as a research method as well -- to ask someone write down details regarding that activity
-Plan specific quesitons or resquest for the observation/ interview guide
-Decide where to visit (virtually or in person if you are lucky to access such a place easily, by keeping social distance)
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images), so you need to know whehter you will record or ask your interviewee to record or something else.
-Write down your plan as a script -- prepare the interview guide
+Current solutions to ease the navigation process include food and drink exploration and reservations apps, such as OpenTable and Yelp. These platforms, however, do not distinguish the coffee shop as a unique, aesthetic experience through the modality of body and mind. More specific solutions help users look for high-quality, specialty coffee shops in the local area. While they are currently in the process of growing and are lesser known, they focus on providing detailed shop info to help users find "better" coffee. These solutions again neglect a user's connection and physical experience while navigating local coffeeshops on a virtual platform. Digital technology can help connect coffee drinkers based on time, experience, and word of mouth. Coffee communities can share their particular experiences in a unique space through imagery, sound, and video. Possible mediums through which this can be achieved include recreating the experience inside a coffee shop through virtual reality for a user to fully gauge their future experience. Additionally, incorporating an interactive learning process can help further the enrichment process. 
+
+### Target Users 
+The target users that this project would be well-suited for would be coffee drinkers of various knowledge levels, from amateur to coffee snob. Typical users would be individuals who frequent coffee shops on a regular basis to socialize and be productive, such as college students, creatives, and young professionals. Users can complete the activity of searching for a local coffee shop from their home or work, the two spaces between a third space. Specifical goals include finding a target coffee shop that suits their needs, preferably in an efficient manner.  
+
+### Context and Research Method 
+To better understand my target users, I plan to conduct a 30-minute interview over the phone with a typical Los Angeles coffee drinker to understand their process of searching for a new coffee shop in Los Angeles. This user will be a UCLA student who goes to coffee shops for productive and social gains. I intend to ask them about their knowledge of coffee and further understand how it connects to their daily lives in terms of connectivity and productivity. I will specifically ask about their experiences in coffee shops and ask about three scenarios where the user has to search for a new coffee shop, recommend a new coffee shop, and advocate for a coffee shop based on their past experience. I plan to collect the user data by recording the audio of my phone call with my prospective user and transcribing the audio. Additionally, I will note any interesting observations from the interview itself, such as the vocal walkthrough process while conducting the designated tasks. To better understand how a user searches for this information on their device, I will ask the user to take a screen recording while completing the scenario. I also plan to conduct a virtual, open card sort with various words related to coffee shop preferences, such as the number of seats, the number of outlets, aesthetic appeal, etc., to gauge the most important feature that users seek in a new coffee shop. These words will range from more functional features to bodily sensations such as taste and aroma. Due to the current situation, I plan to conduct this card sort task in a virtual setting from the comfort of the user's home using [Optimal Workshop](https://www.optimalworkshop.com/). I will ask the potential user to rank the cards in order of preference and to arrange them as they see fit while labeling or categorizing the groups by term. I also plan to offer the user a "blank card" to write down something that I may have missed. 
+
+*Interview* 
+
+| Interview Script| Interview Recording  | Transcribed Notes + Observations | Screen Recording  | 
+|------|------|------|------|
+|[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)||||
+
+*Card Sort* <br/>
+|Study Link|
+|------|
+|[View](https://ows.io/os/lvu3qr2s)|
+
+
