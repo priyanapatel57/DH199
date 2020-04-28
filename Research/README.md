@@ -15,15 +15,15 @@ The target users that this project would be well-suited for would be coffee drin
 ### Context and Research Method 
 To better understand my target users, I plan to conduct a 30-minute interview over the phone with a typical Los Angeles coffee drinker to understand their process of searching for a new coffee shop in Los Angeles. This user will be a UCLA student who goes to coffee shops for productive and social gains. I intend to ask them about their knowledge of coffee and further understand how it connects to their daily lives in terms of connectivity and productivity. I will specifically ask about their experiences in coffee shops and ask about three scenarios where the user has to search for a new coffee shop, recommend a new coffee shop, and advocate for a coffee shop based on their past experience. I plan to collect the user data by recording the audio of my phone call with my prospective user and transcribing the audio. Additionally, I will note any interesting observations from the interview itself, such as the vocal walkthrough process while conducting the designated tasks. To better understand how a user searches for this information on their device, I will ask the user to take a screen recording while completing the scenario. I also plan to conduct a virtual, open card sort with various words related to coffee shop preferences, such as the number of seats, the number of outlets, aesthetic appeal, etc., to gauge the most important feature that users seek in a new coffee shop. These words will range from more functional features to bodily sensations such as taste and aroma. Due to the current situation, I plan to conduct this card sort task in a virtual setting from the comfort of the user's home using [Optimal Workshop](https://www.optimalworkshop.com/). I will ask the potential user to rank the cards in order of preference and to arrange them as they see fit while labeling or categorizing the groups by term. I also plan to offer the user a "blank card" to write down something that I may have missed. 
 
-*Interview* 
+*Participant 1* 
 
 | Interview Script| Interview Recording | Observations/Notes | Transcribed Interview | Screen Recording  | 
 |------|------|------|------|------|
 |[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)|[View](https://drive.google.com/file/d/1j3t0mJnhrAyBZf1xcBGdLvRLUHMFgwYz/view?usp=sharing)|[View](https://docs.google.com/document/d/1Oo-jYuK4s_R3WLYWjSiTu_iOcvPHzWEDPzfc1wqAo0Q/edit?usp=sharing)|[View](https://docs.google.com/document/d/1hsQKFK_6KrGKkcnDAGnxcnshyVa3iMPUb8w5qKKo2Do/edit?usp=sharing)||
 
 *Card Sort* <br/>
-|Study Link|
-|------|
-|[View](https://ows.io/os/lvu3qr2s)|
+|Study Link| Cards|
+|------|------|
+|[View](https://ows.io/os/lvu3qr2s)|[View](https://drive.google.com/file/d/107JlKayIyuZKcziMXeRuwogNH5Jx_cMY/view?usp=sharing)|
 
 
