@@ -17,9 +17,9 @@ To better understand my target users, I plan to conduct a 30-minute interview ov
 
 *Interview* 
 
-| Interview Script| Interview Recording  | Transcribed Notes + Observations | Screen Recording  | 
+| Interview Script| Interview Recording | Observations/Notes | Transcribed Interview | Screen Recording  | 
 |------|------|------|------|
-|[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)||||
+|[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)|recording|[View](https://docs.google.com/document/d/1Oo-jYuK4s_R3WLYWjSiTu_iOcvPHzWEDPzfc1wqAo0Q/edit?usp=sharing)|[view](https://docs.google.com/document/d/1hsQKFK_6KrGKkcnDAGnxcnshyVa3iMPUb8w5qKKo2Do/edit?usp=sharing}||
 
 *Card Sort* <br/>
 |Study Link|
