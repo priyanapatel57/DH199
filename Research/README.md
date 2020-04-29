@@ -30,8 +30,8 @@ To better understand my target users, I plan to conduct a 30-minute interview ov
 *Card Sort* <br/>
 |Study Link| Cards|
 |------|------|
-|[View](https://ows.io/os/lvu3qr2s)|[View](https://drive.google.com/file/d/107JlKayIyuZKcziMXeRuwogNH5Jx_cMY/view?usp=sharing)||
+|[View](https://ows.io/os/lvu3qr2s)|[View](https://drive.google.com/file/d/107JlKayIyuZKcziMXeRuwogNH5Jx_cMY/view?usp=sharing)|
 
-### Summary
+### Reflection
 
 
