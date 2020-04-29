@@ -29,8 +29,8 @@ To better understand my target users, I plan to conduct a 30-minute interview ov
 
 *Card Sort* <br/>
 |Study Link | Cards | Results Analysis
-|------|------|
-|[View](https://ows.io/os/lvu3qr2s)|[View](https://drive.google.com/file/d/107JlKayIyuZKcziMXeRuwogNH5Jx_cMY/view?usp=sharing)|[View]{https://app.optimalworkshop.com/optimalsort/s66qe86p/j30qx3xs/shared-results/786f0cu183x8b8at3sz5l7l4ce2n605d)
+|------|------|------|
+|[View](https://ows.io/os/lvu3qr2s)|[View](https://drive.google.com/file/d/107JlKayIyuZKcziMXeRuwogNH5Jx_cMY/view?usp=sharing)|[View](https://app.optimalworkshop.com/optimalsort/s66qe86p/j30qx3xs/shared-results/786f0cu183x8b8at3sz5l7l4ce2n605d)|
 
 ### Reflection
 Based on my user interviews and card sorting tasks, I learned that my target audience values numerous features of a coffee shop, with the weight of these features on decision-making dependent on the goal and motivation associated with going to a coffee shop in the first place. When the goal is to study, either independently or with a group, features such as seating, the number of outlets, and size/capacity guide a user's choice. When meeting with friends or a mentor, the interior aesthetics and type of environment help a user gauge their future experience within a space. Across differing levels of coffee expertise, both users cited difficulty gauging how busy a coffee shop was and how much seating was available at the given time. Specific pain points and user difficulties include having to scour customer reviews for seating/capacity, not finding the preferred amount of outlets, having to refine a search based on the context of use, and arriving at a coffee shop after closing because of an inconsistency between current location and closing hours. 
