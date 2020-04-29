@@ -25,12 +25,12 @@ To better understand my target users, I plan to conduct a 30-minute interview ov
 
 |Interview Script| Interview Recording | Observations/Notes | Transcribed Interview | Screen Recordings|
 |------|------|------|------|------|
-|[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)|||||
+|[View](https://docs.google.com/document/d/18-HuHlhHixeS5djUJ02Jn1TINBiKsliBL8Uof2nPXhI/edit?usp=sharing)|||[View](https://docs.google.com/document/d/1tonjgeEp9KCtGz58tGmekXTSe7l2vHAJ8O8VzkkE2ZE/edit?usp=sharing)||
 
 *Card Sort* <br/>
 |Study Link| Cards|
 |------|------|
-|[View](https://ows.io/os/lvu3qr2s)|[View](https://drive.google.com/file/d/107JlKayIyuZKcziMXeRuwogNH5Jx_cMY/view?usp=sharing)|rcording| notes| [View](https://docs.google.com/document/d/1tonjgeEp9KCtGz58tGmekXTSe7l2vHAJ8O8VzkkE2ZE/edit?usp=sharing)|screen|
+|[View](https://ows.io/os/lvu3qr2s)|[View](https://drive.google.com/file/d/107JlKayIyuZKcziMXeRuwogNH5Jx_cMY/view?usp=sharing)||
 
 ### Summary
 
