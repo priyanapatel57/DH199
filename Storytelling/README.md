@@ -2,7 +2,7 @@
 Priyana Patel
 
 ## User Persona
-|---|---|
+|------|------|
 |![User Persona Coffee Expert](https://user-images.githubusercontent.com/59623155/81847228-2918f580-9508-11ea-93bc-cbe0b76d83df.png)|![User Persona Novice-01](https://user-images.githubusercontent.com/59623155/81847108-fcfd7480-9507-11ea-9b9d-112360b909ef.png)|
 
 ## Usage Scenario
