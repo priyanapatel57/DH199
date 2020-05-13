@@ -2,13 +2,15 @@
 Priyana Patel
 
 ## User Persona
+|Coffee Expert| Coffee Novice|
+|------|------|
 |![User Persona Coffee Expert](https://user-images.githubusercontent.com/59623155/81847228-2918f580-9508-11ea-93bc-cbe0b76d83df.png)|![User Persona Novice-01](https://user-images.githubusercontent.com/59623155/81847108-fcfd7480-9507-11ea-9b9d-112360b909ef.png)|
 
 ## Usage Scenario
 
 |Sylvie|Yasmin|
 |------|------|
-|Sylvie is looking for a new coffee shop to study at this weekend. She knows her regular places near campus will be busy so she would like to take the opportunity to explore and find a new one. Her main priorities when looking for a new coffee shop are that it is has good quality coffee, is close to campus, within her price range, and has good reviews. Her preferences for an ideal study environment are that the coffee shop is open and large in size and has a lot of seating. Sylvie plans on grabbing her coffee and setting up with her laptop and study materials. She plans on bringing her charger in the hopes that the shop is equipped with outlets around seating areas.||| 
+|Sylvie is looking for a new coffee shop to study at this weekend. She knows her regular places near campus will be busy so she would like to take the opportunity to explore and find a new one. Her main priorities when looking for a new coffee shop are that it is has good quality coffee, is close to campus, within her price range, and has good reviews. Her preferences for an ideal study environment are that the coffee shop is open and large in size and has a lot of seating. Sylvie plans on grabbing her coffee and setting up with her laptop and study materials. She plans on bringing her charger in the hopes that the shop is equipped with outlets around seating areas.|| 
 
 ## User Journey
 
