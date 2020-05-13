@@ -10,12 +10,12 @@ Priyana Patel
 
 |Sylvie|Yasmin|
 |------|------|
-|Sylvie is looking for a new coffee shop to study at this weekend. She knows her regular places near campus will be busy so she would like to take the opportunity to explore and find a new one. Her main priorities when looking for a new coffee shop are that it is has good quality coffee, is close to campus, within her price range, and has good reviews. Her preferences for an ideal study environment are that the coffee shop is open and large in size and has a lot of seating. Sylvie plans on grabbing her coffee and setting up with her laptop and study materials. She plans on bringing her charger in the hopes that the shop is equipped with outlets around seating areas.|| 
+|Sylvie is looking for a new coffee shop to study at this weekend. She knows her regular places near campus will be busy so she would like to take the opportunity to explore and find a new one. Her main priorities when looking for a new coffee shop are that it is has **good quality coffee, is close to campus, within her price range, and has good reviews**. Her preferences for an ideal study environment are that the coffee shop is open and large in size and has a lot of seating. Sylvie plans on grabbing her coffee and setting up with her laptop and study materials. She plans on bringing her charger in the hopes that the shop is equipped with outlets around seating areas.|| 
 
 ## User Journey
 
-| Sylvie | Yasmin |
-| ------ | ------ |
+|Sylvie|Yasmin|
+|------|------|
 | 1. Sylvie's goal is to find a new coffee shop, filtering by location, price, and reviews. She types in "coffee" into the Yelp app, editing her location to "UCLA" and making the refinement "good for groups". She is excited and hopeful for the search results to explore new shops in the local area.
 
 2. Sylvie's challenge once she finds a promising coffee shop is figuring out whether the shop will be busy when she gets there and whether there will be enough seating. She sifts through reviews, specifically looking for key terms such as "popular", "crowded", or "busy". She also analyzes pictures of the interior space, looking at tables, seats, and how open the space is. 
