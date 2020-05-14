@@ -21,8 +21,10 @@ Priyana Patel
 |Solution|A solution for Sylvie is a specialized digital tool for coffee which provides a guided search exploration by goal with markers for seating, size/capacity, and peak hours. Sylvie would begin her search by selecting the purpose of her coffee shop search: "to study". Results would account for size/capacity, seating, number of outlets, and free Wi-Fi in addition to price, reviews, distance, and hours. She feels relieved and relaxed knowing she can save time on her search, without having to look through lots of reviews and pictures.|| 
 
 ## Wireframes 
-<img width="337" alt="Wireframes_DH199" src="https://user-images.githubusercontent.com/59623155/81240851-6d167280-8fbd-11ea-9b4d-279f8b2e574f.png">
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FZmn7gokbNENYsEujJxpOh4%2FDH199%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+|Draft #1|Draft #2|
+|------|------|
+|<img width="337" alt="Wireframes_DH199" src="https://user-images.githubusercontent.com/59623155/81240851-6d167280-8fbd-11ea-9b4d-279f8b2e574f.png">|<img width="365" alt="Wireframes 2" src="https://user-images.githubusercontent.com/59623155/81877936-621e8d80-953b-11ea-9e5a-490bb8d03af3.png">
+|
 
-[Interactive prototype](https://projects.invisionapp.com/prototype/ck9w0pyid00648t01l02a140s/play)
+[Interactive Wireflow](https://projects.invisionapp.com/prototype/ck9w0pyid00648t01l02a140s/play)
