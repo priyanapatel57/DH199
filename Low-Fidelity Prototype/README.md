@@ -9,3 +9,5 @@ Priyana Patel
 (View interactive wireflow)[https://www.figma.com/proto/Zmn7gokbNENYsEujJxpOh4/DH199?node-id=2%3A0&scaling=scale-down)]
 
 ## Evaluation
+The user was not sure how to navigate the search results page, she noted that it would be helpful if the coffee shop cards were labeled at the top so that the names were visible.
+
