@@ -6,6 +6,6 @@ Priyana Patel
 
 ## Wireflow 
 <img width="281" alt="Wireflow" src="https://user-images.githubusercontent.com/59623155/81878890-191c0880-953e-11ea-900e-b607542991ff.png">
-[View interactive wireflow](https://www.figma.com/proto/Zmn7gokbNENYsEujJxpOh4/DH199?node-id=2%3A0&scaling=scale-down)
+(View interactive wireflow)[https://www.figma.com/proto/Zmn7gokbNENYsEujJxpOh4/DH199?node-id=2%3A0&scaling=scale-down)]
 
 ## Evaluation
