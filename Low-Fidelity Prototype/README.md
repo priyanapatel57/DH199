@@ -1,4 +1,4 @@
-# Low-Fidelity Prototype 
+# Interaction Design: Low-Fidelity Prototype 
 Priyana Patel
 
 ## Wireframes 
