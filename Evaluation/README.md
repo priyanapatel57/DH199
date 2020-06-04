@@ -11,7 +11,7 @@ I evaluated by interactive prototype through a google forms usability test. I as
 
 View the google [form](https://forms.gle/tFAbvmP1CSYsTwoE8)
 
-## 2) Data the data collected (survey data, recording/ transcript, image/videos, or notes)
+## 2) Survey Data
 
 Access the results [here](https://docs.google.com/forms/d/1xhEGTocKypYC2htQe4nuqhywIgCx9NFWSBGlZj-Vlig/edit?usp=sharing)
 
