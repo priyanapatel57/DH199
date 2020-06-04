@@ -17,5 +17,9 @@ Access the results [here](https://docs.google.com/forms/d/1xhEGTocKypYC2htQe4nuq
 
 ## 3) Summary 
 
+|Complete search field|Evaluate search results|Learn more about the coffee shop|Further steps to plan your visit|
+|---|---|---|---|
+|1. Change "work" to "productivity" because it is vague and can be confused with professional||||
+
 ## 4) Revision Plan 
 
