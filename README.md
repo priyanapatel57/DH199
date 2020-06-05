@@ -2,6 +2,8 @@
 Priyana Patel <br/>
 Cognitive Science and Digital Humanities, B.S., Class of 2020 <br/>
 
+![Screens Preview](https://user-images.githubusercontent.com/59623155/83906099-c508dc00-a717-11ea-8474-c6e7a9188229.jpg)
+
 ## Project Overview 
 ### Project Description 
 I am interested in exploring the evolution of coffee culture of Los Angeles and how coffee is currently reflected in the social experience of local residents. Coffee shops represent social acitivities for connection as well as spaces to empower individuals. Los Angeles is comprised of residents of multiple races, nationalities, and backgrounds which is directly reflected in the abundance of coffee communities. For myself as a student in Los Angeles, coffee shops are go-to spots for productive study sessions, informational interviews and catching up with friends. 
