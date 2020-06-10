@@ -16,38 +16,42 @@ View the google [form](https://forms.gle/tFAbvmP1CSYsTwoE8)
 ## 2) Survey Data
 
 ### Five Second Test
-Average Visual Appeal (5 - Strongy Agree, 4 - Agree, 3 - Neutral, 2 - Disagree, 1 - Strongly Disagree) </br>
+Average Visual Appeal 
+(5 - Strongy Agree, 4 - Agree, 3 - Neutral, 2 - Disagree, 1 - Strongly Disagree) </br>
 |Aesthetic: 4.4| Symmetrical: 3.6| Pleasant: 4| Organized: 4| Clean: 4.2|
 | ---- | ---- | ---- | ---- | ---- |
 
-Elements: Participants recalled beige colors and a brown color scheme, a grid style picture layout, and a map. 
+*Elements*: Participants recalled beige colors and a brown color scheme, a grid style picture layout, and a map. 
 
-Design Affirmations: Participants stated that they liked the visual appeal, simplicity and cleanliness, the colors, the map and image integration, and the minimal text. 
+*Design Affirmations*: Participants stated that they liked the visual appeal, simplicity and cleanliness, the colors, the map and image integration, and the minimal text. 
 
 ### Tasks
 Four out of five users (80%) were able to complete all subtasks within the four main task groups. One user was unable to view the search results on a map view and go to the store's Instagram page. 
 
 Access the results [here](https://docs.google.com/spreadsheets/d/1lw1I78gX2RC57WNu8YactE6mWg69BwYNJ2XcIjUiP74/edit?usp=sharing)
 
-Coffee Shop Evaluation: 80% of users stated that Black Canvas Coffee met their study needs. Participants mentioned that based on their evaluation, the coffee shop has few to no outlets which would make charging their laptop difficult. One user also included that there was not a lot of seating and there was no backing on the chairs. These results indicate a typical user's ability to evaluate a search result based on the provided information. When asked if there was any pertinent or useful information missing, 20% of users (1 participant) stated "popular menu items".  
+*Coffee Shop Evaluation*: 80% of users stated that Black Canvas Coffee met their study needs. Participants mentioned that based on their evaluation, the coffee shop has few to no outlets which would make charging their laptop difficult. One user also included that there was not a lot of seating and there was no backing on the chairs. These results indicate a typical user's ability to evaluate a search result based on the provided information. When asked if there was any pertinent or useful information missing, 20% of users (1 participant) stated "popular menu items".  
 
 ### Post-Test Questionnaire
-Average Task Diffculty (7 - Very Easy, 6 - Easy, 5 - Somewhat Easy, 4 - Neutral, 3 - Somewhat Difficult, 2 - Difficult, 1 - Very Difficult)
-|----|----|----|----|
-|Complete the search field: 6.2|Evaluate search results: 5.4| Learn more about the coffee shop: 6|Further steps to plan your visit: 6.2| 
+Average Task Diffculty 
+(7 - Very Easy, 6 - Easy, 5 - Somewhat Easy, 4 - Neutral, 3 - Somewhat Difficult, 2 - Difficult, 1 - Very Difficult)
+|Complete the search field: 6.2|Evaluate search results: 5.4| Learn more about the coffee shop: 6|Further steps to plan your visit: 6.2|
+| ---- | ---- | ---- | ---- | ---- |
 
-Average Time to Complete Task (7 - Much shorter than expected, 6 - Shorter than expected, 5 - Somewhat shorter than expected, 4 - As expected, 3 - Somewhat longer than expected, 2 - Longer than expected, 1 - Much longer than expected)
-|---|---|---|---|
+Average Time to Complete Task 
+(7 - Much shorter than expected, 6 - Shorter than expected, 5 - Somewhat shorter than expected, 4 - As expected, 3 - Somewhat longer than expected, 2 - Longer than expected, 1 - Much longer than expected)
 |Complete the search field: 5|Evaluate search results: 4.6| Learn more about the coffee shop: 6|Further steps to plan your visit: 6.2|
+| ---- | ---- | ---- | ---- | ---- |
 
+Productivity, Social Connectivity, Accessibility 
+(7 - Strongly Agree, 6 - Agree, 5 - Somewhat Agree, 4 - Neutral, 3 - Somewhat Disagree, 2 - Disagree, 1 - Strongly Disagree) </br>
 
-Productivity, Social Connectivity, Accessibility (7 - Strongly Agree, 6 - Agree, 5 - Somewhat Agree, 4 - Neutral, 3 - Somewhat Disagree, 2 - Disagree, 1 - Strongly Disagree) </br>
-I believe the app experience will improve my personal productivity and future experiences in coffee shops: 6.4
-I believe the app experience promotes my opportunities for social connectivity: 6.2
-I believe the app experience allows for creative exploration to increase accessibility to coffee communities: 6
+1. I believe the app experience will improve my personal productivity and future experiences in coffee shops: 6.4
+2. I believe the app experience promotes my opportunities for social connectivity: 6.2
+3. I believe the app experience allows for creative exploration to increase accessibility to coffee communities: 6
 
 System Usability Scale </br>
-The average participant SUS score was 79 which is higher than the average SUS score of 68. 
+The average participant SUS score was **79** which is higher than the average SUS score of 68. 
 
 ## 3) Summary 
 
