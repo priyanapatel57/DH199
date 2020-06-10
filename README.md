@@ -97,21 +97,21 @@ Based on my user interviews and card sorting tasks, I learned that my target aud
 
 With a clearer understanding of the processes associated with searching for a coffee shop, my main design requirements will consist of representing seating and space through interactive imagery, motion, and sound. Additionally, I plan to incorporate a "motivation/purpose" filter at the start of the search process to better refine search results based on the context of use. Particular goals and motivations, such as meeting with a mentor, should take further features such as environment, aesthetics, and noise level into account when displaying search results to reduce the amount of time for the user. For future user research, I plan to focus on other desires and motivations of going to a coffee shop, such as creative exploration and social connection. A change I made to my current research script was how I framed the scenarios; as opposed to searching for a new coffee each time, I asked the user how well their choice fit the criteria for their goal (e.g. to study). A minor error that I noticed in my card sorting task was that I had two similar/duplicate cards "Empty" and "Empty/Crowded". Next time I would double check my cards before launching my study to ensure that participants can sufficiently group terms without any confusion and later effects in my results. Next time, I would ask further questions about prior search experiences and the successes or failures of such. When searching for new coffee shops and restaurants, the best way to fully evaluate a choice is to experience the space. Due to the current situation, I was not able to test this effect further therefore it was important to ask about prior experiences. 
 
-# UX Storytelling
+## UX Storytelling
 Priyana Patel
 
-## User Persona
+### User Persona
 |Coffee Expert| Coffee Novice|
 |------|------|
 |![User Persona Coffee Expert](https://user-images.githubusercontent.com/59623155/81847228-2918f580-9508-11ea-93bc-cbe0b76d83df.png)|![User Persona Novice-01](https://user-images.githubusercontent.com/59623155/81847108-fcfd7480-9507-11ea-9b9d-112360b909ef.png)|
 
-## Usage Scenario
+### Usage Scenario
 
 |Sylvie|Yasmin|
 |------|------|
 |Sylvie is a busy college student looking for a new coffee shop to study at this weekend. She has a very high knowledge of coffee and She knows her regular places near campus will be busy so she would like to take the opportunity to explore and find a new one. Her main priorities when looking for a new coffee shop are that it is has **good quality coffee, is close to campus, within her price range, and has good reviews**. Her preferences for an ideal study environment are that the coffee shop is open and large in size and has a lot of seating. Sylvie plans on grabbing her coffee and setting up with her laptop and study materials. She plans on bringing her charger in the hopes that the shop is equipped with outlets around seating areas.|Yasmin is a recent college graduate looking to spend her time exploring new coffee shops this weekend. She is looking for aesthetic cafes which have a great opportunity for an Instagram photo-op as opposed to the main chain coffee stores she currently visits. Her main priorities when looking for a new coffee shop are **price, distance, and variety in the menu**. Yasmin just started drinking coffee within the past few years in college when she would meet up with friends and study. She would like start exploring more as she will start grad school in Seattle in the fall, but Yasmin is a little unsure where to start.
 
-## User Journey
+### User Journey
 
 ||Sylvie|Yasmin|
 |------|------|------|
@@ -119,19 +119,19 @@ Priyana Patel
 |Challenge|Sylvie's challenge once she finds a promising coffee shop is figuring out whether the shop will be busy when she gets there and whether there will be enough seating. She sifts through reviews, specifically looking for key terms such as "popular", "crowded", or "busy". She also analyzes pictures of the interior space, looking at tables, seats, and how open the space is.|Yasmin's challenge is finding distinct cafes amidst chain coffee shops such as Starbucks and Peet's Coffee in her search results feed. Additionally, she does not typically archive her findings for future visits; if the name is obscure or the shop is not within her top five search results, she has trouble remembering it again. If she has found a promising choice, she seeks advice from her friends with more experience via iMessage to confirm before her visit.|
 |Solution|A solution for Sylvie is a specialized digital tool for coffee which provides a guided search exploration by goal with markers for seating, size/capacity, and peak hours. Sylvie would begin her search by selecting the purpose of her coffee shop search: "to study". Results would account for size/capacity, seating, number of outlets, and free Wi-Fi in addition to price, reviews, distance, and hours. She feels relieved and relaxed knowing she can save time on her search, without having to look through lots of reviews and pictures.|A solution for Yasmin is a rapid discovery page which can be filtered by vibes and aesthetics as well as personalized by coffee knowledge. She will see a live, consistently changing view of trending and popular coffee shops based on visual appeal (images linked via Instagram). Each digital card can be easily archived into a favorites list so that Yasmin can continue to explore without losing reference to a possible coffee shop she would like to view at a later time/ Yasmin is motivated and inspired by the wide variety of choices she has available to her and is relieved that she does not have to confirm her choice with her friends. 
 
-## Wireframes 
+### Wireframes 
 
 |Draft #1|Draft #2|
 |------|------|
 |<img width="337" alt="Wireframes_DH199" src="https://user-images.githubusercontent.com/59623155/81240851-6d167280-8fbd-11ea-9b4d-279f8b2e574f.png">|<img width="365" alt="Wireframes 2" src="https://user-images.githubusercontent.com/59623155/81877936-621e8d80-953b-11ea-9e5a-490bb8d03af3.png">
 
-# Low-Fidelity Prototype 
+## Low-Fidelity Prototype 
 Priyana Patel
 
-## Wireframes 
+### Wireframes 
 <img width="365" alt="Wireframes 2" src="https://user-images.githubusercontent.com/59623155/81877936-621e8d80-953b-11ea-9e5a-490bb8d03af3.png">
 
-## Wireflow 
+### Wireflow 
 <img width="281" alt="Wireflow" src="https://user-images.githubusercontent.com/59623155/81878890-191c0880-953e-11ea-900e-b607542991ff.png">
 
 [View interactive wireflow](https://www.figma.com/proto/Zmn7gokbNENYsEujJxpOh4/DH199?node-id=1%3A4&scaling=scale-down)
@@ -143,24 +143,119 @@ I tested my low-fidelity prototype with two potential users. The first user was 
 
 Based on my evaluations, I need to reconsider how I would like to structure and design my search feed. I believe a swipe left and swipe right motion would be more intuitive for the user however it would not allow them to go back and forth between search results; once a card is swiped left, they cannot return to it. Additionally, I need to make my navigation buttons ("Back", etc.) bigger and more visible. I think it would be helpful to use an additional icon with the "See All" button to indicate to the user that they can navigate to the coffee shop's photo gallery. 
 
-# Interface Design 
+## Interface Design 
 
-## Color and Typography 
+### Color and Typography 
 I decided to use variations of red and brown in my color palette. Yelp and other food applications use red as an attention grabber to evoke the tastebuds. The color brown, secondary to red, represents the natural relevance to coffee, in its bean and drink form. Brown is associated with being close to earth and "grounded", hence the literal reference to the name of this future mobile design. I used Red (#8C2016) for actionable buttons and text and I used Dark Brown (#401E17) for all informational, non-actionable text. I used a combination of red and brown (#9F5049) for accent colors and banners. 
 
 ![Color_Typography-01](https://user-images.githubusercontent.com/59623155/82415934-1cc3f980-9a2e-11ea-927c-06818d050c0c.png)
 
-## Revisions
+### Revisions
 "Filter" button - "All" with filter icon </br>
 Results Page with stacked cards - See all cards at once, similar to Pinterest's interface (each result appears with the price range, whether it is open or closed, the rating, and capacity/peak hours level) </br>
 Purpose of trip - Provide more info with each option such as "Work - I'm trying to get some work done", "Social - I want to connect with friends", "Professional - I'm meeting with clients/mentors" </br>
 
 [View the revised wireframes and interface](https://www.figma.com/file/Zmn7gokbNENYsEujJxpOh4/DH199?node-id=1%3A4)
 
-# High-Fidelity/Interactive Prototype
+## High-Fidelity/Interactive Prototype
 
-## View the interactive prototype
+### View the interactive prototype
 [Try it out on Figma](https://www.figma.com/proto/Zmn7gokbNENYsEujJxpOh4/DH199?node-id=1%3A4&scaling=scale-down)
+
+## Evaluation
+Priyana Patel 
+
+### 1) Methods 
+I evaluated my interactive prototype through a google forms usability test. In the **pre-test**, I asked the user to complete a 5-second impression test where they viewed an image of the screens for 5 seconds. After, they were asked to rate their agreement with the following terms on a 5-point Likert scale: *Aesthetic, Symmetrical, Pleasant, Organized, Clean*. This visual appeal questionnaire was developed by Lavie and Tractinsky to measure classical aesthetics (Lavie and Tractinsky 2004). I also asked if they could recall any particular elements from the design and what they liked about the design to further understand a user's impression of the design. In the **tasks** section, I asked the user to complete the following four groups of tasks to test the flow and usability of the deesign. 
+
+1. Complete the search field 
+2. Evaluate search results
+3. Learn more about the coffee shop
+4. Further steps to plan your visit 
+
+In the **post-test questionnaire**, I asked the user to rate the difficulty of the task and the time it took to complete the task. To measure perceived productivity, social connectivity, and accessibility, I asked users to rate their agreement with statements that suggested that their experience with the app would improve such areas. Lastly, I used a **system usability scale - sus** to evaluate the comprehensive usability of the mobile application. 
+
+View the google [form](https://forms.gle/tFAbvmP1CSYsTwoE8)
+
+### 2) Survey Data
+
+Access the full results [here](https://docs.google.com/spreadsheets/d/1lw1I78gX2RC57WNu8YactE6mWg69BwYNJ2XcIjUiP74/edit?usp=sharing)
+
+#### Five Second Test
+Average Visual Appeal </br> 
+(5 - Strongy Agree, 4 - Agree, 3 - Neutral, 2 - Disagree, 1 - Strongly Disagree) </br>
+|Aesthetic| Symmetrical| Pleasant| Organized| Clean|
+| ---- | ---- | ---- | ---- | ---- |
+|4.4|3.6|4|4|4.2|
+
+*Elements*: Participants recalled beige colors and a brown color scheme, a grid style picture layout, and a map. 
+
+*Design Affirmations*: Participants stated that they liked the visual appeal, simplicity and cleanliness, the colors, the map and image integration, and the minimal text. 
+
+#### Tasks
+Four out of five users (80%) were able to complete all subtasks within the four main task groups. One user was unable to view the search results on a map view and go to the store's Instagram page. 
+
+*Coffee Shop Evaluation*: 80% of users stated that Black Canvas Coffee met their study needs. Participants mentioned that based on their evaluation, the coffee shop has few to no outlets which would make charging their laptop difficult. One user also included that there was not a lot of seating and there was no backing on the chairs. These results indicate a typical user's ability to evaluate a search result based on the provided information. When asked if there was any pertinent or useful information missing, 20% of users (1 participant) stated "popular menu items".  
+
+#### Post-Test Questionnaire
+Average Task Diffculty </br>
+(7 - Very Easy, 6 - Easy, 5 - Somewhat Easy, 4 - Neutral, 3 - Somewhat Difficult, 2 - Difficult, 1 - Very Difficult)
+|Complete the search field|Evaluate search results| Learn more about the coffee shop|Further steps to plan your visit|
+| ---- | ---- | ---- | ---- | 
+|6.2|5.4|6|6.2|
+
+Average Time to Complete Task </br>
+(7 - Much shorter than expected, 6 - Shorter than expected, 5 - Somewhat shorter than expected, 4 - As expected, 3 - Somewhat longer than expected, 2 - Longer than expected, 1 - Much longer than expected)
+|Complete the search field|Evaluate search results| Learn more about the coffee shop|Further steps to plan your visit|
+| ---- | ---- | ---- | ---- |
+|5|4.6|6|6.2|
+
+Productivity, Social Connectivity, Accessibility </br>
+(7 - Strongly Agree, 6 - Agree, 5 - Somewhat Agree, 4 - Neutral, 3 - Somewhat Disagree, 2 - Disagree, 1 - Strongly Disagree) </br>
+
+1. I believe the app experience will improve my personal productivity and future experiences in coffee shops: **6.4**
+2. I believe the app experience promotes my opportunities for social connectivity: **6.2**
+3. I believe the app experience allows for creative exploration to increase accessibility to coffee communities: **6**
+
+System Usability Scale </br>
+The average participant SUS score was **79** which is higher than the average SUS score of 68. 
+
+### 3) Summary 
+
+Overall, all participants agree that the visual design is aesthetic, organized, pleasant and clean. Users report, however, lower average ratings with respect to the design being symmetical in classical aesthetics. Prominent elements of the design include the grid-style layout, the location-based navigation, and the color scheme. 80% of users were able to complete all tasks in the navigation flow however one user had difficulty in accessing the map view and navigation to external applications. Participants found that completing the search field, learning more about the coffee shop, and completing further steps to plan their visit within the *Easy* scale rating and found that evaluating search results within the *Somewhat Easy* scale rating. Participants found learning more about the coffee shop and completing further steps to plan their visit shorter tan expected, completing the search field somewhat shorter than expected, and evaluating the search results as expected with respect to the time it took to complete the task. Lastly, participants on average agree that using the app would help improve their productivity and future experiences in coffee shops, promote their opportunities for social connectivity, and increase their accessibility to coffee communities. 
+
+### 4) Revision Plan 
+Based on extensive feedback from Professor Cho and two users, I plan to make the following revisions:
+
+Complete the search field:
+1. Change the arrow icon to "Continue/Search" or only make appear once the search form is complete
+2. Add a "continue" button that takes you back to the homepage after you enter your location
+3. Add a title and label to make it clearer for users when entering their location
+4. Change "Work" to "Productivity" (*work* can be synonymous with *professional*)
+5. Include a label for location: "Where would you like to find a coffee shop?"
+
+Evaluate the search results:
+1. Make the map accessible by tapping in addition to dragging
+2. For the filter page, group the icons together (price, seating, outlets, etc.)
+3. Change the distance filter to a drag/slider bar
+4. Instructions that explain what the capacity colors mean
+5. Add a "Sort" button and make the results default by capacity/how busy
+6. Remove the horizontal scroll of the filter tags and change to icons
+7. Embed the name of the coffee shop on the image
+
+Learn more about the coffee shop:
+1. Add Yelp average star review 
+2. Include how many seats not taken 
+3. Change the amenities to 3 by 3 grid or a check to indicate whether the shop has it 
+
+Further steps to plan your visit:
+1. Option to pick which rideshare app to open (Uber or Lyft)
+2. Make the actionable button text more concise (call, map, web, ride)
+3. Link "Copy Address" with the share icon 
+
+Additionally, I plan to certain design changes to maintain visual consistency and ensure that colors are AA WCAG compliant. Regarding the product itself, I would like to reconsider the "What is your coffee knowledge" feature. Based on my user research and storytelling, coffee knowledge is associated with experience and personal value. If so, results in accordance with a user's coffee knowledge would be reflected in the variety in a menu and the quality of the coffee. I plan to complete further user research to under the value of such feature and how this would help find coffee shops that match their needs, desires, and previous experience in coffee shops. 
+
+
 
 
 
