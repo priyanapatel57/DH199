@@ -159,8 +159,11 @@ Purpose of trip - Provide more info with each option such as "Work - I'm trying 
 
 ## High-Fidelity/Interactive Prototype
 
+<img width="626" alt="Screen High Fidelity" src="https://user-images.githubusercontent.com/59623155/84328195-270d7b00-ab36-11ea-8330-f8d4d524ce35.png">
+
 ### View the interactive prototype
 [Try it out on Figma](https://www.figma.com/proto/Zmn7gokbNENYsEujJxpOh4/DH199?node-id=1%3A4&scaling=scale-down)
+
 
 ## Evaluation
 Priyana Patel 
