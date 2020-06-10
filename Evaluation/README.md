@@ -46,7 +46,7 @@ Average Time to Complete Task </br>
 | ---- | ---- | ---- | ---- |
 |5|4.6|6|6.2|
 
-Productivity, Social Connectivity, Accessibility <
+Productivity, Social Connectivity, Accessibility </br>
 (7 - Strongly Agree, 6 - Agree, 5 - Somewhat Agree, 4 - Neutral, 3 - Somewhat Disagree, 2 - Disagree, 1 - Strongly Disagree) </br>
 
 1. I believe the app experience will improve my personal productivity and future experiences in coffee shops: **6.4**
