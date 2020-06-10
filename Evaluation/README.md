@@ -32,8 +32,7 @@ Access the results [here](https://docs.google.com/spreadsheets/d/1lw1I78gX2RC57W
 Coffee Shop Evaluation: 80% of users stated that Black Canvas Coffee met their study needs. Participants mentioned that based on their evaluation, the coffee shop has few to no outlets which would make charging their laptop difficult. One user also included that there was not a lot of seating and there was no backing on the chairs. These results indicate a typical user's ability to evaluate a search result based on the provided information. When asked if there was any pertinent or useful information missing, 20% of users (1 participant) stated "popular menu items".  
 
 ### Post-Test Questionnaire
-Average Task Diffculty (7 - Very Easy, 6 - Easy, 5 - Somewhat Easy, 4 - Neutral, Somewhat - Diffculty 
-|||||
+Average Task Diffculty (7 - Very Easy, 6 - Easy, 5 - Somewhat Easy, 4 - Neutral, 3 - Somewhat Difficult, 2 - Difficult, 1 - Very Difficult)
 |----|----|----|----|
 |Complete the search field: 6.2|Evaluate search results: 5.4| Learn more about the coffee shop: 6|Further steps to plan your visit: 6.2| 
 
