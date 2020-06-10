@@ -33,7 +33,8 @@ Coffee Shop Evaluation: 80% of users stated that Black Canvas Coffee met their s
 
 ### Post-Test Questionnaire
 Average Task Diffculty (7 - Very Easy, 6 - Easy, 5 - Somewhat Easy, 4 - Neutral, Somewhat - Diffculty 
-|---|---|---|---|
+|||||
+|----|----|----|----|
 |Complete the search field: 6.2|Evaluate search results: 5.4| Learn more about the coffee shop: 6|Further steps to plan your visit: 6.2| 
 
 Average Time to Complete Task (7 - Much shorter than expected, 6 - Shorter than expected, 5 - Somewhat shorter than expected, 4 - As expected, 3 - Somewhat longer than expected, 2 - Longer than expected, 1 - Much longer than expected)
