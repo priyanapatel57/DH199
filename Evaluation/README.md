@@ -15,8 +15,10 @@ View the google [form](https://forms.gle/tFAbvmP1CSYsTwoE8)
 
 ## 2) Survey Data
 
+Access the full results [here](https://docs.google.com/spreadsheets/d/1lw1I78gX2RC57WNu8YactE6mWg69BwYNJ2XcIjUiP74/edit?usp=sharing)
+
 ### Five Second Test
-Average Visual Appeal 
+Average Visual Appeal </br> 
 (5 - Strongy Agree, 4 - Agree, 3 - Neutral, 2 - Disagree, 1 - Strongly Disagree) </br>
 |Aesthetic| Symmetrical| Pleasant| Organized| Clean|
 | ---- | ---- | ---- | ---- | ---- |
@@ -29,29 +31,27 @@ Average Visual Appeal
 ### Tasks
 Four out of five users (80%) were able to complete all subtasks within the four main task groups. One user was unable to view the search results on a map view and go to the store's Instagram page. 
 
-Access the results [here](https://docs.google.com/spreadsheets/d/1lw1I78gX2RC57WNu8YactE6mWg69BwYNJ2XcIjUiP74/edit?usp=sharing)
-
 *Coffee Shop Evaluation*: 80% of users stated that Black Canvas Coffee met their study needs. Participants mentioned that based on their evaluation, the coffee shop has few to no outlets which would make charging their laptop difficult. One user also included that there was not a lot of seating and there was no backing on the chairs. These results indicate a typical user's ability to evaluate a search result based on the provided information. When asked if there was any pertinent or useful information missing, 20% of users (1 participant) stated "popular menu items".  
 
 ### Post-Test Questionnaire
-Average Task Diffculty 
+Average Task Diffculty </br>
 (7 - Very Easy, 6 - Easy, 5 - Somewhat Easy, 4 - Neutral, 3 - Somewhat Difficult, 2 - Difficult, 1 - Very Difficult)
 |Complete the search field|Evaluate search results| Learn more about the coffee shop|Further steps to plan your visit|
 | ---- | ---- | ---- | ---- | 
 |6.2|5.4|6|6.2|
 
-Average Time to Complete Task 
+Average Time to Complete Task </br>
 (7 - Much shorter than expected, 6 - Shorter than expected, 5 - Somewhat shorter than expected, 4 - As expected, 3 - Somewhat longer than expected, 2 - Longer than expected, 1 - Much longer than expected)
 |Complete the search field|Evaluate search results| Learn more about the coffee shop|Further steps to plan your visit|
 | ---- | ---- | ---- | ---- |
 |5|4.6|6|6.2|
 
-Productivity, Social Connectivity, Accessibility 
+Productivity, Social Connectivity, Accessibility <
 (7 - Strongly Agree, 6 - Agree, 5 - Somewhat Agree, 4 - Neutral, 3 - Somewhat Disagree, 2 - Disagree, 1 - Strongly Disagree) </br>
 
-1. I believe the app experience will improve my personal productivity and future experiences in coffee shops: 6.4
-2. I believe the app experience promotes my opportunities for social connectivity: 6.2
-3. I believe the app experience allows for creative exploration to increase accessibility to coffee communities: 6
+1. I believe the app experience will improve my personal productivity and future experiences in coffee shops: **6.4**
+2. I believe the app experience promotes my opportunities for social connectivity: **6.2**
+3. I believe the app experience allows for creative exploration to increase accessibility to coffee communities: **6**
 
 System Usability Scale </br>
 The average participant SUS score was **79** which is higher than the average SUS score of 68. 
