@@ -17,8 +17,8 @@ View the google [form](https://forms.gle/tFAbvmP1CSYsTwoE8)
 
 ### Five Second Test
 Average Visual Appeal (5 - Strongy Agree, 4 - Agree, 3 - Neutral, 2 - Disagree, 1 - Strongly Disagree) </br>
-| --- | --- | --- | --- | --- |
 |Aesthetic: 4.4| Symmetrical: 3.6| Pleasant: 4| Organized: 4| Clean: 4.2|
+| ---- | ---- | ---- | ---- | ---- |
 
 Elements: Participants recalled beige colors and a brown color scheme, a grid style picture layout, and a map. 
 
