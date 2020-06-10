@@ -36,12 +36,12 @@ Access the results [here](https://docs.google.com/spreadsheets/d/1lw1I78gX2RC57W
 Average Task Diffculty 
 (7 - Very Easy, 6 - Easy, 5 - Somewhat Easy, 4 - Neutral, 3 - Somewhat Difficult, 2 - Difficult, 1 - Very Difficult)
 |Complete the search field: 6.2|Evaluate search results: 5.4| Learn more about the coffee shop: 6|Further steps to plan your visit: 6.2|
-| ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | 
 
 Average Time to Complete Task 
 (7 - Much shorter than expected, 6 - Shorter than expected, 5 - Somewhat shorter than expected, 4 - As expected, 3 - Somewhat longer than expected, 2 - Longer than expected, 1 - Much longer than expected)
 |Complete the search field: 5|Evaluate search results: 4.6| Learn more about the coffee shop: 6|Further steps to plan your visit: 6.2|
-| ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | 
 
 Productivity, Social Connectivity, Accessibility 
 (7 - Strongly Agree, 6 - Agree, 5 - Somewhat Agree, 4 - Neutral, 3 - Somewhat Disagree, 2 - Disagree, 1 - Strongly Disagree) </br>
