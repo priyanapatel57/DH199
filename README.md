@@ -258,7 +258,8 @@ Further steps to plan your visit:
 
 Additionally, I plan to certain design changes to maintain visual consistency and ensure that colors are AA WCAG compliant. Regarding the product itself, I would like to reconsider the "What is your coffee knowledge" feature. Based on my user research and storytelling, coffee knowledge is associated with experience and personal value. If so, results in accordance with a user's coffee knowledge would be reflected in the variety in a menu and the quality of the coffee. I plan to complete further user research to under the value of such feature and how this would help find coffee shops that match their needs, desires, and previous experience in coffee shops. I would like to further explore how I can make the app experience more immersive, incorporating sound, interactive imagery, and motion to recreate the coffee shop experience.
 
-
+## Final Research Report]
+[Access the final research report here](https://docs.google.com/document/d/1xmpTyLORN-bhxomQ-aYJdZs7Ku8tBBjSY4ALHZDzobI/edit?usp=sharing)
 
 
 
