@@ -38,7 +38,7 @@ This quarter, my research interests are "coffee", "culture", "social", "aestheti
 ### Relevant Previous Works 
 [Yelp](https://www.yelp.com/) <br/>
 [OpenTable](https://www.opentable.com/) <br/>
-[Source](Find Specialty Coffee https://www.sourcecoffeeco.com/) <br/> 
+[Source](https://www.sourcecoffeeco.com/) <br/> 
 [BeanHunter](https://www.beanhunter.com/) <br/>
 
 Current websites and apps provide a clean, aesthetic user experience for local residents to discover restaurants and coffeeshops in the area. "Source" provides handpicked, novelty coffeshops as well as user-submitted roasters that are approved based on high-quality standards. The app offers an integration with Apple Maps, Google Maps, and Waze to offer directions and easy access. The app, however, lacks a community and social experience. While it provides basic contact details, it lacks useful information that would help assist in decision-making, such as peak hours and number of seats. Across all location-based food apps, there lacks an educational feature that helps the user make decisions while also learning about the history of local eateries. 
